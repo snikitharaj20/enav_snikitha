@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111711613466",
+    "project_id": "enav-snikitha",
+    "storage_bucket": "enav-snikitha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111711613466:android:ed8922658e1e37e2c0d7a3",
+        "android_client_info": {
+          "package_name": "com.example.enav_snikitha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111711613466-436eo86vllo683hjh7q8s4lgfuabndrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQGG_fQpGerq3Oe0eT_UHzLLm2bDlt5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111711613466-436eo86vllo683hjh7q8s4lgfuabndrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
