@@ -1,6 +1,6 @@
 # enav_snikitha
 
-A new Flutter project.
+A Flutter based mobile platform provides navigation for visitors to search,discover,and learn more about various exhibits of a museum.
 
 ## Getting Started
 
